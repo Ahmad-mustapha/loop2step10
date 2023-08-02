@@ -10,9 +10,12 @@ Clone or download this repository and run with a local server of open `index.htm
 - Html
 - Css
 ## Demo
-[Go Live](https://rawcdn.githack.com/Ahmad-mustapha/loop2step9/ddcc22aae03a8e190f5489e10b2ff16f1827c641/index.html)
+[Go Live](https://github.com/Ahmad-mustapha/loop2step10/blob/master/index.html)
 
-![screenshot](./img/loop2step10.png)
+![screenshot](./img/loop2step101stpage.png)
+![screenshot](./img/loop2step102ndpage.png)
+![screenshot](./img/loop2step103rdpage.png)
+![screenshot](./img/loop2step104thpage.png)
 ## Contact
 If you want to contact me you can reach me at
 - ahmadishola12@gmail.com
